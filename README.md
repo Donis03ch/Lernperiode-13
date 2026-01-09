@@ -1,1 +1,14 @@
 # Lernperiode-13
+Grob-Planung
+
+09.01.2026 bis 23.01.2026
+
+In dieser LP arbeite ich an meinen persönlichen Projekten und suche nebenbei auch nach einer Praktikumstelle. 
+
+## Arbeitspakete für 09.01.2026
+
+- [ ] ...
+- [ ] ...
+- [ ] ...
+
+Heute habe ich...
